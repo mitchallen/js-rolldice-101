@@ -1,3 +1,5 @@
+// Author: Mitch Allen
+// File: test-rolldice.js
 
 import { rollDice } from './rolldice.js';
 
